@@ -3,3 +3,4 @@ pydantic
 transformers
 streamlit
 httpx
+pytorch
